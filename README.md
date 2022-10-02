@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mihail Prohorov</h1>
-<h3 align="center">I’m currently working on Bulgarian Association for Promotion of Education and Science</h3>
+<h3 align="center">I have 7+ years experience in developing and testing multiple web-based applications, with passion in programing and design. I have strong skills in javascript, html , css.</h3>
 
 <p>
 7+ years experience in developing and testing multiple web-based applications, with passion in programing and design. I have strong skills in javascript, html , css.
