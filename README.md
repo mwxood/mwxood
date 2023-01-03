@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mihail Prohorov</h1>
 <h3 align="center">I have experience in developing and testing multiple web-based applications, with passion in programing and design. I have strong skills in javascript, html , css.</h3>
 
-<p>
-7+ years experience in developing and testing multiple web-based applications, with passion in programing and design. I have strong skills in javascript, html , css.
-</p>
 
 - 🌱 I’m currently learning **Node.js Express**
 
