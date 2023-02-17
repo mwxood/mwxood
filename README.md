@@ -1,9 +1,11 @@
 
 <div align="center">
 <img src="https://camo.githubusercontent.com/3017136302a5b6b8cf79647910b22733db7f32d566b11fdebf4ba7538364b599/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f785469497a4a534b42346c3778546f7545382f67697068792e676966" alt="image" />
+  
+  ## My name is Mihail
 </div>
 
-## My name is Mihail
+
 
 <h3 align="center">I have experience in developing and testing multiple web-based applications, with passion in programing and design. I have strong skills in javascript, html , css.</h3>
 
