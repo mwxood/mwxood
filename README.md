@@ -6,13 +6,7 @@
 </div>
 
 
-
 <h3 align="center">I'm a front-end developer with a strong passion for programming and design. I have hands-on experience in developing and testing various web-based applications, specializing in JavaScript, HTML, and CSS.</h3>
-
-
-
-
-- 🌱 I’m currently learning **Node.js Express**
 
 - 👨‍💻 All of my projects are available at [https://mprohorov.com/](https://mprohorov.com/)
 
