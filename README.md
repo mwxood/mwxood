@@ -7,7 +7,7 @@
 
 
 
-<h3 align="center">I have experience in developing and testing multiple web-based applications, with passion in programing and design. I have strong skills in javascript, html , css.</h3>
+<h3 align="center">I'm a front-end developer with a strong passion for programming and design. I have hands-on experience in developing and testing various web-based applications, specializing in JavaScript, HTML, and CSS.</h3>
 
 
 
