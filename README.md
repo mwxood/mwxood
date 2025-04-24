@@ -45,10 +45,10 @@
 
 🧠 About Me
 
-🎓 I hold a Master's degree in Software Technologies.
-💼 Over 7 years of hands-on experience in custom WordPress themes, plugins, and React applications.
-📈 Focused on delivering fast, optimized, SEO-friendly solutions for clients and affiliate projects.
-🌱 Currently learning more about PHP frameworks and refining my own WordPress products for sale.
+- 🎓 I hold a Master's degree in Software Technologies.
+- 💼 Over 7 years of hands-on experience in custom WordPress themes, plugins, and React applications.
+- 📈 Focused on delivering fast, optimized, SEO-friendly solutions for clients and affiliate projects.
+- 🌱 Currently learning more about PHP frameworks and refining my own WordPress products for sale.
 
 ---
 
