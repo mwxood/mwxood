@@ -1,55 +1,52 @@
-<h1 align="center">Hey there 👋 I'm Mihail Prohorov</h1>
-<h3 align="center">Passionate Front-End Developer & WordPress Craftsman</h3>
-
+<h1 align="center">Hi, I'm Mihail 👋</h1>
 <p align="center">
-  💻 I build beautiful, fast, and user-friendly websites with a focus on performance and functionality. <br>
-  🛠️ Experienced in JavaScript, React, PHP, WordPress, and more. <br>
-  🎯 My goal is to bring ideas to life with clean code and smart design.
+  Front-end Developer • WordPress Expert • React & PHP Enthusiast
 </p>
 
 ---
 
-### 🌐 My Website & Contact
+### 💻 About Me
 
-- 🔗 **Portfolio Website:** [mprohorov.com](https://mprohorov.com/)
-- 📬 **Email:** mwxood@gmail.com
+I'm a front-end developer with a strong passion for clean design and robust code. I specialize in building responsive websites and custom WordPress themes & plugins. I also develop mobile-friendly React applications and have experience in software development with PHP, JavaScript, and Node.js.
+
+🎓 **Master's Degree in Software Technologies**  
+🏃‍♂️ I walk 18 km and climb 18 flights of stairs every day  
+🌱 Currently expanding my skills in React Native and CodeIgniter
 
 ---
 
-### 🛠️ Tech Stack
+### 🔧 Technologies & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" alt="WordPress"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" alt="SASS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
 ---
 
-### 📂 Featured Projects
+### 🧩 Featured Projects
 
-| Project        | Description |
-|----------------|-------------|
-| [**wp-code.eu**](https://wp-code.eu) | 🧩 WordPress themes, plugins & mobile apps – crafted for businesses. |
-| [**bonuskodove.com**](https://bonuskodove.com) | 🎲 Your guide to the best casino bonus codes and offers. |
-| [**parivaliat.com**](https://parivaliat.com) | 🃏 Play demo casino games: roulette, poker, slots, bingo & more. |
-| [**mprohorov.com**](https://mprohorov.com) | 🌐 Personal site and portfolio with everything I’ve built. |
+- 🔗 [mprohorov.com](https://mprohorov.com) — My personal website & portfolio  
+- 🔗 [wp-code.eu](https://wp-code.eu) — WordPress themes, plugins, and software development  
+- 🔗 [bonuskodove.com](https://bonuskodove.com) — Bonus codes and casino offers  
+- 🔗 [parivaliat.com](https://parivaliat.com) — Free demo casino games and predictions
 
 ---
 
-🧠 About Me
+### 📬 Contact Me
 
-- 🎓 I hold a Master's degree in Software Technologies.
-- 💼 Over 7 years of hands-on experience in custom WordPress themes, plugins, and React applications.
-- 📈 Focused on delivering fast, optimized, SEO-friendly solutions for clients and affiliate projects.
-- 🌱 Currently learning more about PHP frameworks and refining my own WordPress products for sale.
+- 📧 Email: **mwxood@gmail.com**
+- 🌐 Website: [mprohorov.com](https://mprohorov.com)
 
 ---
 
-⭐️ Don't forget to check out my work and say hi!
+⭐ If you like what I do, feel free to star some of my repos or connect!
