@@ -1,28 +1,54 @@
+<h1 align="center">Hey there 👋 I'm Mihail Prohorov</h1>
+<h3 align="center">Passionate Front-End Developer & WordPress Craftsman</h3>
 
-<div align="center">
-<img src="https://i.pinimg.com/originals/74/46/f3/7446f34a377c958e00783b55c84ae29a.gif" alt="image" />
-  
-  ## My name is Mihail
-</div>
-
-<h3 align="center">I'm a front-end developer with a strong passion for programming and design. I have hands-on experience in developing and testing various web-based applications, specializing in JavaScript, HTML, and CSS.</h3>
-
-- 👨‍💻 All of my projects are available at [https://mprohorov.com/](https://mprohorov.com/)
-
-- 📫 How to reach me **mwxood@gmail.com**
-
-<h3 align="left">Connect with me: mwxood@gmail.com</h3>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" color="white"> Express.js</a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Portfolio:</h3>
-
-<p align="left">
-  <a href="https://mprohorov.com" target="_blank">mprohorov.com</a>
-  <a href="https://wp-code.eu" target="_blank">wp-code.eu</a>
-  <a href="https://bonuskodove.com" target="_blank">bonuskodove.com</a>
-  <a href="https://parivaliat.com" target="_blank">parivaliat.com</a>
+<p align="center">
+  💻 I build beautiful, fast, and user-friendly websites with a focus on performance and functionality. <br>
+  🛠️ Experienced in JavaScript, React, PHP, WordPress, and more. <br>
+  🎯 My goal is to bring ideas to life with clean code and smart design.
 </p>
 
+---
+
+### 🌐 My Website & Contact
+
+- 🔗 **Portfolio Website:** [mprohorov.com](https://mprohorov.com/)
+- 📬 **Email:** mwxood@gmail.com
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" alt="WordPress"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" alt="SASS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+</p>
+
+---
+
+### 📂 Featured Projects
+
+| Project        | Description |
+|----------------|-------------|
+| [**wp-code.eu**](https://wp-code.eu) | 🧩 WordPress themes, plugins & mobile apps – crafted for businesses. |
+| [**bonuskodove.com**](https://bonuskodove.com) | 🎲 Your guide to the best casino bonus codes and offers. |
+| [**parivaliat.com**](https://parivaliat.com) | 🃏 Play demo casino games: roulette, poker, slots, bingo & more. |
+| [**mprohorov.com**](https://mprohorov.com) | 🌐 Personal site and portfolio with everything I’ve built. |
+
+---
+
+### 🧠 Fun Facts
+
+- 🎓 Master's degree in Software Technologies
+- 🏋️ I walk 18 km and climb 18 flights of stairs every day
+- ✝️ I believe in the Second Coming
+
+---
+
+⭐️ Don't forget to check out my work and say hi!
