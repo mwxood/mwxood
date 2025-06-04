@@ -11,7 +11,7 @@ I'm a front-end developer with a strong passion for clean design and robust code
 
 🎓 **Master's Degree in Software Technologies**  
 🏃‍♂️ I walk 18 km and climb 18 flights of stairs every day  
-🌱 Currently expanding my skills in React Native and CodeIgniter
+🌱 Currently expanding my skills in React Native and Larvel
 
 ---
 
