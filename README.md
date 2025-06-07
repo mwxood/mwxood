@@ -39,6 +39,7 @@ I'm a front-end developer with a strong passion for clean design and robust code
 - 🔗 [wp-code.eu](https://wp-code.eu) — WordPress themes, plugins, and software development  
 - 🔗 [bonuskodove.com](https://bonuskodove.com) — Bonus codes and casino offers  
 - 🔗 [parivaliat.com](https://parivaliat.com) — Free demo casino games and predictions
+- 🔗 [cryptocasinolist.org](https:/cryptocasinolist.org)  Bitcoin & Crypto Casinos 
 
 ---
 
